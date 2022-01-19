@@ -1,2 +1,2 @@
-random2
+requests
 colorama
