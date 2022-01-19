@@ -1,4 +1,3 @@
-from tkinter import N
 import requests
 from colorama import Fore, Back, Style
 from colorama import init
